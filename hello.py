@@ -1,2 +1,3 @@
-hi='hello world'
-print(hi)
+mess='hello world'
+# adsdfasd
+print(mess)
